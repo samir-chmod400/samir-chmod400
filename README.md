@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python for math
 - 📫 How to reach me ...
 - 😄 Pronouns: HE
-- ⚡ Fun fact: I like learning about Ethical Hacking
+- ⚡ Fun fact: I enjoy learning about Ethical Hacking
 
 <!---
 samir-chmod400/samir-chmod400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
